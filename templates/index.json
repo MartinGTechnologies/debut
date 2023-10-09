@@ -127,23 +127,6 @@
     },
     "16968168929175728a": {
       "type": "apps",
-      "blocks": {
-        "1bf1d263-a7f3-446b-890a-03a89795c731": {
-          "type": "shopify:\/\/apps\/foxsell\/blocks\/custom_product_carousel_basic\/8af31731-4b2e-455d-bbf0-ce3debb3c4bf",
-          "settings": {
-            "featured_product_list": [
-              "3-in-1-stroller",
-              "5-pack-soft-cotton-bibs",
-              "adjustable-high-chair",
-              "all-natural-rubber-pacifier",
-              "baby-safety-gate"
-            ]
-          }
-        }
-      },
-      "block_order": [
-        "1bf1d263-a7f3-446b-890a-03a89795c731"
-      ],
       "settings": {
       }
     },
@@ -184,40 +167,14 @@
         "section_height": "medium"
       }
     },
-    "1696816884e948df23": {
-      "type": "apps",
-      "blocks": {
-        "6155439c-339a-421a-993b-fbd412c5e6c5": {
-          "type": "shopify:\/\/apps\/foxsell\/blocks\/custom_product_carousel_basic\/8af31731-4b2e-455d-bbf0-ce3debb3c4bf",
-          "settings": {
-            "featured_product_list": [
-              "3-in-1-stroller",
-              "5-pack-soft-cotton-bibs",
-              "adjustable-high-chair",
-              "all-natural-rubber-pacifier"
-            ]
-          }
-        }
-      },
-      "block_order": [
-        "6155439c-339a-421a-993b-fbd412c5e6c5"
-      ],
-      "settings": {
-      }
-    },
-    "1696816956cb258b33": {
-      "type": "apps",
-      "settings": {
-      }
-    },
     "8858e106-17af-4b36-8c8a-a9613f4e974c": {
       "type": "weare-collection-carousel",
       "settings": {
         "title": "Featured products",
         "selected_collection": "",
-        "print_price": false,
-        "number_of_products": 10,
-        "slides_per_view": 4,
+        "print_price": true,
+        "number_of_products": 7,
+        "slides_per_view": 3,
         "slides_per_view_md": 3,
         "slides_per_view_sm": 2,
         "slides_per_view_xs": 1,
@@ -248,8 +205,6 @@
     "quotes",
     "16968168929175728a",
     "image-bar",
-    "1696816884e948df23",
-    "1696816956cb258b33",
     "8858e106-17af-4b36-8c8a-a9613f4e974c"
   ]
 }
