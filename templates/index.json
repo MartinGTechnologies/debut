@@ -207,23 +207,6 @@
     },
     "1696816956cb258b33": {
       "type": "apps",
-      "blocks": {
-        "3c991b67-f3b1-4e72-99c9-53420f4a0c41": {
-          "type": "shopify:\/\/apps\/foxsell\/blocks\/cps_box\/8af31731-4b2e-455d-bbf0-ce3debb3c4bf",
-          "settings": {
-            "featured_product_list": [
-              "3-in-1-stroller",
-              "5-pack-soft-cotton-bibs",
-              "adjustable-high-chair",
-              "all-natural-rubber-pacifier"
-            ],
-            "view_details_text": "Shop Now"
-          }
-        }
-      },
-      "block_order": [
-        "3c991b67-f3b1-4e72-99c9-53420f4a0c41"
-      ],
       "settings": {
       }
     },
