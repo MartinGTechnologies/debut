@@ -226,6 +226,34 @@
       ],
       "settings": {
       }
+    },
+    "8858e106-17af-4b36-8c8a-a9613f4e974c": {
+      "type": "weare-collection-carousel",
+      "settings": {
+        "title": "Featured products",
+        "selected_collection": "",
+        "print_price": false,
+        "number_of_products": 10,
+        "slides_per_view": 4,
+        "slides_per_view_md": 3,
+        "slides_per_view_sm": 2,
+        "slides_per_view_xs": 1,
+        "images_form": "",
+        "image_size": "270x370_crop_center",
+        "view_all_string": "View all",
+        "sold_out_string": "Sold out",
+        "sale_string": "Sale",
+        "new_string": "New",
+        "select_options_string": "Select options",
+        "add_cart_string": "Add to cart",
+        "boxed": true,
+        "background_container": "#F9F5F2",
+        "heading_alignment": "left",
+        "margin_top": "",
+        "margin_bottom": "",
+        "padding_top": "",
+        "padding_bottom": ""
+      }
     }
   },
   "order": [
@@ -238,6 +266,7 @@
     "16968168929175728a",
     "image-bar",
     "1696816884e948df23",
-    "1696816956cb258b33"
+    "1696816956cb258b33",
+    "8858e106-17af-4b36-8c8a-a9613f4e974c"
   ]
 }
