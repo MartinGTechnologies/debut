@@ -171,7 +171,7 @@
       "type": "weare-collection-carousel",
       "settings": {
         "title": "Featured products",
-        "selected_collection": "",
+        "selected_collection": "baby",
         "print_price": true,
         "number_of_products": 7,
         "slides_per_view": 3,
