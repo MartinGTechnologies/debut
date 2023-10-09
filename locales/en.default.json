@@ -386,6 +386,7 @@
       "back_to_collection": "Back to",
       "vendor": "Vendor",
       "new": "New",
+      "select_options": "Select Options",
       "quantity_minimum_message": "Quantity must be 1 or more",
       "include_taxes": "Tax included.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
